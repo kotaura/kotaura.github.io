@@ -5,17 +5,17 @@ a {
 	outline: 0 !important;
 }
 body, h1, h2, h3, h4, h5 {
-	font-family: 'Droid Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
 }
 
 .name {
-	font-family: 'Merienda', cursive;
+	font-family: 'Lusitana', cursive;
 	font-size: 3em;
 	line-height: 1.5em;
 }
 
 .playtitles {
-	font-family: 'Merienda', cursive;
+	font-family: 'Lusitana', cursive;
 	font-size: 2em;
 }
 
