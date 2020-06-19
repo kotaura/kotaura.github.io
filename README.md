@@ -1,7 +1,5 @@
 # Who am I.
 
-This is my latest resume that might help you to understand who am I.
-
-これは私の(多分)最新のレジュメです。
+This is something that might help you to understand who am I :simple_smile:
 
 https://kotaura.github.io
